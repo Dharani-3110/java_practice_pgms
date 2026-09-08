@@ -1,8 +1,3 @@
-Yes 👍 I understand. You want a **README.md-style practice sheet** that you can put directly into GitHub and share with your friend.
-
-It should explain **what the problem asks, input, output, examples, constraints, and what you need to practice**, but **not give the solution/code**.
-
-Here is a good structure for **Batch 1**:
 
 # ☕ Java Programming Practice — Batch 1
 
